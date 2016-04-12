@@ -1,6 +1,6 @@
 ## Practice phyton
 
-This repository is the result of keep track of the program used to **practice** the sintax of Python **what**. Also is a way to keep a backup of the files.
+This repository is the result of keep track of the program used to **practice** the sintax of Python. Also is a way to keep a backup of the files.
 
 ## Motivation
 
